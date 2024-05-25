@@ -14,7 +14,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2024-04-19"
+version: "2024-05-21"
 sort: by_weight
 ...
 # +_+
@@ -3377,6 +3377,7 @@ cinemas	cinemas
 cingular	cingular
 cinnamon	cinnamon
 CIO	CIO
+cipher	cipher
 # cir	cir
 circa	circa
 circle	circle
@@ -9425,6 +9426,7 @@ impatient	impatient
 impedance	impedance
 imperative	imperative
 imperial	imperial
+imperium	imperium
 impetus	impetus
 implant	implant
 implants	implants
@@ -10778,10 +10780,10 @@ laughs	laughs
 laughter	laughter
 launch	launch
 # launch pad	launchpad
-Launchpad	Launchpad
 launched	launched
 launches	launches
 launching	launching
+Launchpad	Launchpad
 laundering	laundering
 laundry	laundry
 Laura	Laura
@@ -14688,6 +14690,7 @@ predictive	predictive
 predicts	predicts
 predominant	predominant
 predominantly	predominantly
+preedit	preedit
 preface	preface
 prefer	prefer
 preferable	preferable
@@ -16563,10 +16566,9 @@ sampler	sampler
 samples	samples
 sampling	sampling
 Samson	Samson
-samsung	samsung
 Samuel	Samuel
 samurai	samurai
-san	san
+# san	san
 Sanchez	Sanchez
 sanction	sanction
 sanctions	sanctions
@@ -16614,7 +16616,7 @@ saskatchewan	saskatchewan
 saskatoon	saskatoon
 sassy	sassy
 sat	sat
-Sat.	Sat
+Sat.	Sat.
 SATA	SATA
 satan	satan
 satellite	satellite
@@ -17002,7 +17004,7 @@ sentries	sentries
 sentry	sentry
 SEO	SEO
 Seoul	Seoul
-Sep.	Sep
+Sep.	Sep.
 separate	separate
 separated	separated
 separately	separately
@@ -17012,7 +17014,7 @@ separation	separation
 separator	separator
 # seperate	seperate
 sept	sept
-Sept.	Sept
+Sept.	Sept.
 September	September
 septic	septic
 # seq	seq
@@ -18479,7 +18481,7 @@ summit	summit
 summon	summon
 sums	sums
 sun	sun
-Sun.	Sun
+Sun.	Sun.
 Sundance	Sundance
 Sunday	Sunday
 Sundays	Sundays
@@ -19212,7 +19214,7 @@ throws	throws
 thru	thru
 thrust	thrust
 # ths	ths
-Thu.	Thu
+Thu.	Thu.
 thug	thug
 thumb	thumb
 thumbnail	thumbnail
@@ -19759,7 +19761,7 @@ tubular	tubular
 tuck	tuck
 tucker	tucker
 tucson	tucson
-Tue.	Tue
+Tue.	Tue.
 # tues	tues
 Tuesday	Tuesday
 Tuesdays	Tuesdays
@@ -20776,7 +20778,7 @@ websites	websites
 WebSphere	WebSphere
 webster	webster
 wed	wed
-Wed.	Wed
+Wed.	Wed.
 wedding	wedding
 weddings	weddings
 wedge	wedge
